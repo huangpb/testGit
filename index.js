@@ -7,3 +7,5 @@ var bar = function() {}
 const reset2 = '1';
 
 const no_ff1 = 1;
+const time2 = 1;
+const time3 = 1;
