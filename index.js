@@ -5,3 +5,5 @@ var arr = [1,2,3,4];
 var bar = function() {}
 
 const reset2 = '1';
+
+const no_ff1 = 1;
