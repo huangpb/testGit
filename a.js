@@ -9,3 +9,4 @@ const time1 = 1;
 const time5 = 1;
 var b = a * 2;
 const text = '1111';
+const next;
