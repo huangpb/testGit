@@ -4,3 +4,4 @@ var arr = [1,2,3,4];
 const master;
 const ab;
 const reset1;
+const reset2;
