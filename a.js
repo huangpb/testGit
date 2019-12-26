@@ -3,3 +3,4 @@ var a = 1;
 '2222'
 '3333'
 const next;
+let str = 'ab上的文字2'
