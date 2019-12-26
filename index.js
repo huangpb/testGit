@@ -8,4 +8,3 @@ const reset1;
 const reset2;
 let str2 = 'ab 上的文字';
 str2 = 'ab 上的文字3';
-str2 = '刚创建c分支';
