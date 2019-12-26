@@ -5,3 +5,4 @@ const master;
 const ab;
 const reset1;
 const reset2;
+const str2 = 'ab 上的文字';
