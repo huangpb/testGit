@@ -5,3 +5,4 @@ const ab;
 let c = 0;
 'aaaa'
 'cccc'
+'dddd'
