@@ -9,3 +9,4 @@ const reset2;
 let str2 = 'ab 上的文字';
 str2 = 'ab 上的文字3';
 222
+3333
